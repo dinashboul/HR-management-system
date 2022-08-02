@@ -1,0 +1,19 @@
+.head{
+    background-color:lightblue;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    gap:40px;
+
+}
+
+
+  footer{
+    color: crimson;
+    position:absolute;
+    bottom: 0px;
+    width:100%;
+      }
+      
